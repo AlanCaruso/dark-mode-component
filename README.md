@@ -16,7 +16,7 @@ The `dark-mode-component` is a lightweight and versatile JavaScript component th
 
 ## Usage
 
-1. Include the `dark-mode-component.js` file in your project.
+1. Include the `ThemeSwitcher.js` file in your project.
 2. Add the necessary HTML markup for the dark mode toggle button.
 3. Initialize the component and define the necessary CSS classes for light and dark mode.
 4. Bind an event listener to the toggle button to activate the mode switching functionality.
